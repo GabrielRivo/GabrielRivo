@@ -1,10 +1,8 @@
 
-<br>
-
-### About Me
+## About Me
 With a two-year degree (DUT) in Computer Science, I am currently studying at 42 Lyon, where I am deepening my software engineering skills.
 
-### Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -21,7 +19,7 @@ With a two-year degree (DUT) in Computer Science, I am currently studying at 42 
 
 ---
 
-### Featured Projects
+## Featured Projects
 
 #### [ft_transcendence](URL_DE_TON_REPO_ICI)
 > Real-time multiplayer 3D Pong web application built with a microservices architecture. *(TypeScript, React, NestJS, Docker, SQLite)*
