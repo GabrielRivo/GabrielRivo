@@ -1,8 +1,3 @@
-<h1 align="center">Gabriel Rivo</h1>
-
-<p align="center">
-  <i>Software Engineering Student @ 42 Lyon</i>
-</p>
 
 <br>
 
