@@ -35,8 +35,4 @@ With a two-year degree (DUT) in Computer Science, I am currently studying at 42 
   <a href="mailto:gabriel.rivo95@gmail.com">
     <img src="https://api.iconify.design/logos:google-gmail.svg?height=50" alt="Email" />
   </a>
-  &emsp;&emsp;&emsp;&emsp;
-  <a href="URL_DE_TON_LINKEDIN_ICI" target="_blank">
-    <img src="https://api.iconify.design/logos:linkedin-icon.svg?height=50" alt="LinkedIn" />
-  </a>
 </p>
