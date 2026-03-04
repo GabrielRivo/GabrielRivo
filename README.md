@@ -21,10 +21,10 @@ With a two-year degree (DUT) in Computer Science, I am currently studying at 42 
 
 ## Featured Projects
 
-#### [ft_transcendence](URL_DE_TON_REPO_ICI)
+#### [ft_transcendence](https://github.com/GabrielRivo/ft_transcendence)
 > Real-time multiplayer 3D Pong web application built with a microservices architecture. *(TypeScript, React, NestJS, Docker, SQLite)*
 
-#### [cub3D](URL_DE_TON_REPO_ICI)
+#### [cub3D](https://github.com/GabrielRivo/cub3D)
 > 3D graphics engine written from scratch in C using raycasting techniques.
 
 ---
