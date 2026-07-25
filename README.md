@@ -30,7 +30,7 @@ With a two-year degree (DUT) in Computer Science, I am currently studying at 42 
 > Real-time multiplayer 3D Pong SPA built with a microservices architecture. *(TypeScript, React, NestJS, Docker, SQLite, Babylon.js)*
 
 #### [red-tetris](https://github.com/GabrielRivo/red-tetris)
-> Real-time multiplayer Tetris SPA with centralized state synchronization. *(TypeScript, React, Redux Toolkit, Node.js)*
+> Real-time multiplayer Tetris SPA with centralized state synchronization, featuring mobile & touch support. *(TypeScript, React, Redux Toolkit, Node.js)*
 
 #### [cub3D](https://github.com/GabrielRivo/cub3D)
 > 3D graphics engine written from scratch in C using raycasting techniques.
