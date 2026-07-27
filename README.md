@@ -33,7 +33,7 @@ With a two-year degree (DUT) in Computer Science, I am currently studying at 42 
 > Real-time multiplayer Tetris SPA with centralized state synchronization, featuring mobile & touch support. *(TypeScript, React, Redux Toolkit, Node.js)*
 
 #### [cub3D](https://github.com/GabrielRivo/cub3D)
-> 3D graphics engine written from scratch in C using raycasting techniques.
+> Pseudo 3D graphics engine written from scratch in C using raycasting techniques.
 
 ---
 
